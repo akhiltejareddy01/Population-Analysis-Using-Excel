@@ -1,0 +1,17 @@
+Basic calculation:
+          1)number of men and women
+          2)Average age of the population
+          3)differentiating the field of work with most number of people
+          4)differentiating the education with number of people doing that course
+          5)average income
+          6)value of each car
+          7)number of people oweing a house
+          8)people having depts more than the certain value
+          9)Average net worth of the population
+
+
+Advanced Calculation:
+          1)average income per country
+          2)average income per field
+          3)finding people earning money more thorugh investment rather than their income
+          4)Finding Youth hardworkers who are having more net worth at certain small amount of age.
